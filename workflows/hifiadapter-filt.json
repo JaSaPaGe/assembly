@@ -1,0 +1,7 @@
+{
+    "fastq": {
+        "class": "File",
+        "path": "test.fa"
+    },
+    "threads": 8
+}
